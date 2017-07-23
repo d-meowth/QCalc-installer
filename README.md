@@ -8,5 +8,6 @@ v2r:
 
 v2.0.1r
 - Fixed latent/specific heat limit.
+
 v2.0.2r
 - Changed the size of the welcome screen to match the witdh of the 4 calculator screens.
